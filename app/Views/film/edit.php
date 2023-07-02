@@ -9,7 +9,7 @@
                         <h1>Edit Film</h1>
                     </div>
                     <div class="col-md-6 text-end">
-                        <a href="/film/" class="btn btn-dark">Kembali</a>
+                        <a href="/film/" class="btn btn-warning">Kembali</a>
                     </div>
                 </div>
             </div>
@@ -76,7 +76,7 @@
                         </div>
                     </div> 
                         <div class="col-md-6">
-                            <button type="submit" class="btn btn-primary mt-5">Simpan Perubahan</button>
+                            <button type="submit" class="btn btn-warning mt-5">Simpan Perubahan</button>
                         </div>
                     </div>
                 </form>

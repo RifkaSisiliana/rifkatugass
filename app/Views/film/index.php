@@ -10,7 +10,7 @@
                         <h1>Semua film</h1>
                     </div>
                     <div class="col-md-6 text-end">
-                        <a href="/film/add" class="btn btn-dark">Tambahkan Data Film</a>
+                        <a href="/film/add" class="btn btn-warning">Tambahkan Data Film</a>
                     </div>
                 </div>
             </div>
